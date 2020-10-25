@@ -1,26 +1,26 @@
-# nanocurrency-js
+# kizunanocoin-js
 
-[![Test](https://github.com/marvinroger/nanocurrency-js/workflows/Test/badge.svg)](https://github.com/marvinroger/nanocurrency-js/actions?query=branch%3Amaster+workflow%3ATest)
+[![Test](https://github.com/kizunanocoin/kizunanocoin-js/workflows/Test/badge.svg)](https://github.com/kizunanocoin/kizunanocoin-js/actions?query=branch%3Amaster+workflow%3ATest)
 
-The `nanocurrency-js` monorepo.
+The `kizunanocoin-js` monorepo.
 
 ## Packages
 
-### nanocurrency
+### kizunanocoin
 
-[![npm version](https://img.shields.io/npm/v/nanocurrency.svg)](https://www.npmjs.com/package/nanocurrency)
+[![npm version](https://img.shields.io/npm/v/kizunanocoin.svg)](https://www.npmjs.com/package/kizunanocoin)
 
-A battle-tested toolkit for the Nano cryptocurrency.
+A battle-tested toolkit for KIZUNANO COIN.
 
-The code lives in [`packages/nanocurrency/`](packages/nanocurrency/).
+The code lives in [`packages/kizunanocoin/`](packages/kizunanocoin/).
 
-### nanocurrency-cli
+### kizunanocoin-cli
 
-[![npm version](https://img.shields.io/npm/v/nanocurrency-cli.svg)](https://www.npmjs.com/package/nanocurrency-cli)
+[![npm version](https://img.shields.io/npm/v/kizunanocoin-cli.svg)](https://www.npmjs.com/package/kizunanocoin-cli)
 
-A CLI for the Nano cryptocurrency. Uses the `nanocurrency` package.
+A CLI for KIZUNANO COIN. Uses the `kizunanocoin` package.
 
-The code lives in [`packages/nanocurrency-cli/`](packages/nanocurrency-cli/).
+The code lives in [`packages/kizunanocoin-cli/`](packages/kizunanocoin-cli/).
 
 ---
 
@@ -28,4 +28,4 @@ The code lives in [`packages/nanocurrency-cli/`](packages/nanocurrency-cli/).
 
 If you like the project, feel free to donate some nano:
 
-`xrb_3mrogerjhkdyj6mzf4e7aatf3xs3gp4stwc9yt9ymgasw7kr7g17t4jwwwy8`
+`kizn_31oh1g739gh6gk4uisb75h7makxsy1xqyi3jckmkh8n6pegbphnswxoeyhrf`

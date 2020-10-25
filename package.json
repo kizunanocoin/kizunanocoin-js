@@ -8,5 +8,5 @@
     "lerna": "^3.13.1",
     "typescript": "^3.3.3333"
   },
-  "name": "nanocurrency-workspace"
+  "name": "kizunanocoin-workspace"
 }

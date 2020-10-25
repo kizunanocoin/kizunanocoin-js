@@ -1,7 +1,7 @@
 ### App ###
 
 dist/
-/packages/nanocurrency/assembly.js
+/packages/kizunanocoin/assembly.js
 
 ### TS ###
 
