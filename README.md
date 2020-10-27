@@ -28,4 +28,4 @@ The code lives in [`packages/kizunanocoin-cli/`](packages/kizunanocoin-cli/).
 
 If you like the project, feel free to donate some nano:
 
-`kizn_31oh1g739gh6gk4uisb75h7makxsy1xqyi3jckmkh8n6pegbphnswxoeyhrf`
+`kizn_1tahs8wx5xupc47kxna6dgn3m1jfiaxf5b3oz5dbbmk8cxi5sxjok7a5ta4k`
