@@ -1,6 +1,6 @@
 /*!
  * kizunanocoin-js: A toolkit for KIZUNANO COIN.
- * Copyright (c) 2020 The KIZ Association <info at kizunanocoin dot com>
+ * Copyright (c) 2020 The KIZ Association <info at newkizunacoin dot com>
  * Licensed under GPL-3.0 (https://git.io/vAZsK)
  */
 import loadAssembly from '../assembly'

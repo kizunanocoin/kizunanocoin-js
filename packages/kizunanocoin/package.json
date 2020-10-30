@@ -3,9 +3,9 @@
   "description": "A toolkit for KIZUNANO COIN, allowing you to derive keys, generate seeds, hashes, signatures, proofs of work and blocks.",
   "version": "2.5.0",
   "author": {
-    "name": "The KIZ Association",
-    "email": "info@kizunanocoin.com",
-    "url": "https://newkizunacoin.com/"
+    "name": "The KIZ Association (TKA)",
+    "email": "info@newkizunacoin.com",
+    "url": "https://www.newkizunacoin.com/"
   },
   "browser": {
     "path": false,
