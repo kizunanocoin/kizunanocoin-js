@@ -1,6 +1,6 @@
 /*!
  * kizunanocoin-js: A toolkit for KIZUNANO COIN.
- * Copyright (c) 2020 The KIZ Association <info at newkizunacoin dot com>
+ * Copyright (c) 2020 THE KIZUNANO CORP. <info at kizunanocoin dot com>
  * Licensed under GPL-3.0 (https://git.io/vAZsK)
  */
 import { blake2bFinal, blake2bInit, blake2bUpdate } from 'blakejs'

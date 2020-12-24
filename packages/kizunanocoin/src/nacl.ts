@@ -1,10 +1,10 @@
 /*!
  * kizunanocoin-js: A toolkit for KIZUNANO COIN.
- * Copyright (c) 2020 The KIZ Association <info at newkizunacoin dot com>
+ * Copyright (c) 2020 THE KIZUNANO CORP. <info at kizunanocoin dot com>
  * Licensed under GPL-3.0 (https://git.io/vAZsK)
  */
 // originally from https://github.com/dchest/tweetnacl-js
-// adapted for Nano and TypeScript by The KIZ Association
+// adapted for Nano and TypeScript by THE KIZUNANO CORP.
 import blake from 'blakejs'
 
 const gf = function(init?: number[]): Float64Array {

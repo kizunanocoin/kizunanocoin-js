@@ -12,7 +12,7 @@ const ENV = process.env.NODE_ENV
 const LICENSE_BANNER = `
 /*!
 * kizunanocoin-js v${pkg.version}: A toolkit for KIZUNANO COIN.
-* Copyright (c) <%= moment().format('YYYY') %> The KIZ Association <info at newkizunacoin dot com>
+* Copyright (c) <%= moment().format('YYYY') %> THE KIZUNANO CORP. <info at kizunanocoin dot com>
 * Licensed under GPL-3.0 (https://git.io/vAZsK)
 */
 `.trim()

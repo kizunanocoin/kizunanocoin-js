@@ -3,9 +3,9 @@
   "description": "A CLI for KIZUNANO COIN, allowing you to derive keys, generate seeds, hashes, signatures, proofs of work and blocks.",
   "version": "1.1.0",
   "author": {
-    "name": "The KIZ Association (TKA)",
-    "email": "info@newkizunacoin.com",
-    "url": "https://www.newkizunacoin.com/"
+    "name": "THE KIZUNANO CORP. (TKC)",
+    "email": "info@kizunanocoin.com",
+    "url": "https://www.kizunanocoin.com/"
   },
   "bugs": "https://github.com/kizunanocoin/kizunanocoin-js/issues",
   "dependencies": {
